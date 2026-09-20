@@ -1,0 +1,12 @@
+<Solution>
+  <Folder Name="/Calculator/">
+    <Project Path="Calculator/Calculator.csproj" Id="582139c1-206e-4d38-925a-8ac3a8a8752d" />
+  </Folder>
+  <Folder Name="/GuessNumber/">
+    <Project Path="GuessTheNumber/GuessTheNumber.csproj" Id="9ad56b8b-6ae4-41ee-8e77-c066d6b8cc6a" />
+  </Folder>
+  <Folder Name="/Translator/">
+    <Project Path="ConsoleApp1/Direction.csproj" />
+  </Folder>
+  <Project Path="project/project.csproj" />
+</Solution>
