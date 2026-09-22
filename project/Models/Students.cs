@@ -1,7 +1,7 @@
 ﻿
 namespace project.Models;
 
-public class Students : Base
+public class Students 
 {
     public required string FirstName { get; set; }
     public required string LastName { get; set; }

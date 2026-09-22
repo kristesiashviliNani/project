@@ -8,8 +8,7 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <Folder Include="Extensions\" />
-    <Folder Include="UI\" />
+    <Folder Include="data\" />
   </ItemGroup>
 
 </Project>

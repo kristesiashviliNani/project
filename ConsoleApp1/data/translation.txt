@@ -1,0 +1,6 @@
+Source: cat, Target: kata, LanguageDirection: Eng-geo
+Source: kata, Target: cat, LanguageDirection: Geo-eng
+Source: hello, Target: gamarjoba, LanguageDirection: Eng-geo
+Source: yes, Target: ki, LanguageDirection: Eng-geo
+Source: cat, Target: cat, LanguageDirection: Eng-gao
+Source: gamarjoba, Target: hello, LanguageDirection: Geo-eng

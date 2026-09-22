@@ -2,7 +2,7 @@
 
 public class TranslationService
 {
-    private readonly string _languageStorePath = "C:\\Users\\user\\Desktop\\dictionary folder\\translation.txt";
+    private readonly string _languageStorePath = "C:\\Users\\user\\source\\repos\\project\\ConsoleApp1\\data\\translation.txt";
 
     public void AddTranslation(string source, string target, string languageDirection)
     {

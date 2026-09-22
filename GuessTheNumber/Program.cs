@@ -30,14 +30,19 @@
 
                     if (userGuess < numberToGuess)
                     {
+                        
+                        Console.ForegroundColor = ConsoleColor.Red;
                         Console.WriteLine("The secret number is higher.");
                     }
                     else if (userGuess > numberToGuess)
                     {
+                        Console.ForegroundColor = ConsoleColor.Blue;
                         Console.WriteLine("The secret number is lower.");
                     }
                     else
                     {
+                        Console.Clear();
+                        Console.ForegroundColor = ConsoleColor.Yellow;
                         Console.WriteLine("Congratulations! You guessed the number.");
                         Console.WriteLine($"Number of attempts: {attempts}");
                         break;
